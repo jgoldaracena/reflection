@@ -9,3 +9,7 @@ It's a good pre-step to avoid making useless commitments
 How can you use the staging area to make sure you have one commit per logical change?
 
 By comparing the changes in the working directory with the stagging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+While experimenting or making different versions of code on the same project.
