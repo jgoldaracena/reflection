@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It turns the disgnated folder an all of it's contents into a repository, which saves a history of changes in an invisible folder named .git
