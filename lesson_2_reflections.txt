@@ -21,3 +21,7 @@ not getting lost
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All the commitments that don't exist in the original branch are included unless they were deleted in some of the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Cons: there may be too many conflicts
+Pro's: If you are well organized a LOT of work get done in seconds.
