@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It turns the disgnated folder an all of it's contents into a repository, which saves a history of changes in an invisible folder named .git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's a good pre-step to avoid making useless commitments
