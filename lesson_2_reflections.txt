@@ -17,3 +17,7 @@ While experimenting or making different versions of code on the same project.
 How do the diagrams help you visualize the branch structure?
 
 not getting lost
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the commitments that don't exist in the original branch are included unless they were deleted in some of the branches.
