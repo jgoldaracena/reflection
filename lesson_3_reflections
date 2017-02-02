@@ -4,7 +4,8 @@ Because you could end up with changes from different sources that may be repetit
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-Froks are made from repositories in github to github clone downloads repositories from github and branches are made within a same repository.
+Froks are made from repositories in github to
+github clone downloads repositories from github and branches are made within a same repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
@@ -15,3 +16,9 @@ How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
 I have no idea, maybe google drive.
+
+When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+
+If I want to experiment something way different or making
+radical changed that i'm not sure they'll work
