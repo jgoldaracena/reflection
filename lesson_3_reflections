@@ -10,3 +10,8 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 It works as a backup that avoids losing track of changes inbetween plataforms
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+I have no idea, maybe google drive.
